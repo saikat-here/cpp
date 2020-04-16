@@ -9,3 +9,5 @@
 #include <vector> 
 vector<int> MyVector
 ```
+## Methods and more details
+[Click Here](http://www.cplusplus.com/reference/vector/vector/)
