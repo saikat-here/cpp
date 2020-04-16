@@ -1,2 +1,2 @@
 # cpp
-[Vector](https://github.com/saikat-here/cpp/blob/master/pages/vector.md) 
+https://github.com/saikat-here/cpp/edit/master/pages/vector.md
